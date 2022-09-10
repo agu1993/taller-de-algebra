@@ -14,10 +14,6 @@ identidad x = x -- :t identidad -> muestra los tipos de variables de la función
 --																				 --
 -- fst :: (a, b) -> a    |	fst (1 + 4, 2)  => 5								 --
 -- snd :: (a, b) -> b	 |  snd (1, (2, 3)) => (2, 3)							 --
-{- investigar
-sobre
-módulos! -}
-
 
 
 cinco :: Float
